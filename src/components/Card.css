@@ -12,6 +12,36 @@
     margin: 12px;
 }
 
+.card__location {
+    font-size: 0.9em;
+    font-weight: 400;
+    letter-spacing: 0.1em;
+    color: #2B283A;
+}
+
+.card__location > a {
+    letter-spacing: 0em;
+    color: #918E9B;
+}
+
+.card__title {
+    margin: 0;
+    font-weight: 700;
+    font-size: 1.4rem;
+}
+
+.card__played {
+    margin: 0;
+    font-size: 0.8rem;
+    color: #918E9B;
+}
+
+.card__description {
+    font-weight: 400;
+    font-size: 0.9rem;
+}
+
+
 #map__icon {
     /* color= #FF6D38 */
     width: 15px;
@@ -20,4 +50,30 @@
 #checkmark {
     /* color = #0F8368 */
     width: 15px;
+}
+
+@media (max-width: 1000px) {
+    .card {
+        flex-direction: column;
+        align-items: center;
+    }
+    .card__left {
+        display: flex;
+        justify-content: center;
+        margin-top: 0.5em;
+    }
+    .card__img {
+        margin: 0;
+        width: 75%;
+    }
+
+    .card__right {
+        display: flex;
+        align-items: center;
+        flex-direction: column;
+    }
+
+    .card__description {
+        margin: 1em 2em;
+    }
 }

@@ -14,7 +14,7 @@ const cardData = [
         location: "Lutsen, MN",
         googleMapsUrl: "https://goo.gl/maps/5tcPNyygzNFdqknN8",
         isPlayed: true,
-        description: "Located on the North Shore of Lake Superior, Superior National provides some of the most dramatic landscapes and challenging golf in all of the Midwest,",
+        description: "Located on the North Shore of Lake Superior, Superior National provides some of the most dramatic landscapes and challenging golf in all of the Midwest.",
         imageUrl: "https://www.superiornational.com/wp-content/uploads/sites/8319/2021/09/Hole-2-C2711-2.jpg"
     },
     {
