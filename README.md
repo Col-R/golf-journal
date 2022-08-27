@@ -63,7 +63,7 @@ const Card = (props) => {
 }
 ```
 ## Status
-Project is: finished, but we likely be built out to include full CRUD functionality and backend database connection.
+Project is: finished, but will likely be built out to include full CRUD functionality and backend database connection.
 
 ## Inspiration
 This project was inspired by the combination of my two favorite things to do in my free time; travel the world, and play golf. I seldom travel to a new place without my golf clubs, and this app will help me keep track of the places I've played and have yet to play.
@@ -73,4 +73,4 @@ Created by Cole Robinson (https://www.linkedin.com/in/cwrobinson-/)
 Let me know what you think! All feedback welcome.
 
 ## License
-[Click to view](https://github.com/Col-R/golfbag_builder/blob/master/LICENSE.md)
+[Click to view](https://github.com/Col-R/golf-journal/blob/main/LICENSE.md)
