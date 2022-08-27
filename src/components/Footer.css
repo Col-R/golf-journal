@@ -1,0 +1,19 @@
+.footer {
+    background-color: #C2B280;
+    height: 55px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+    color: #2B283A
+}
+
+
+.footer__creator > a {
+    text-decoration: none;
+}
+
+.social__icon {
+    height: 36px;
+    padding-left: 1.5rem;
+}
