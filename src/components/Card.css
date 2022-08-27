@@ -1,0 +1,17 @@
+.card {
+    display: flex;
+}
+.card__img {
+    width: 225px;
+    border-radius: 5px;
+}
+
+#map__icon {
+    /* color= #FF6D38 */
+    width: 15px;
+}
+
+#checkmark {
+    /* color = #0F8368 */
+    width: 15px;
+}
