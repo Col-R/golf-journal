@@ -1,4 +1,4 @@
-const Data = [
+const cardData = [
     {
         id: 1,
         title: "Kapolei",
@@ -45,3 +45,5 @@ const Data = [
         imageUrl: "https://pga-tour-res.cloudinary.com/image/upload/c_fill,f_auto,g_center,h_478,q_auto,w_850/v1/pgatour/editorial/2022/07/10/standrews-18-1694-davidcannon.jpg"
     },
 ]
+
+export default cardData;
