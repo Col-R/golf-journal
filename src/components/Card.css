@@ -89,6 +89,11 @@
         display: none;
     }
 
+    .card__title {
+        font-size: 0.9rem;
+        margin: 0em 2em;
+    }
+
     #map__icon {
         display: none;
     }
